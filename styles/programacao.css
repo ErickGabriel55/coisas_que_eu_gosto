@@ -1,0 +1,11 @@
+body{
+    color: rgb(0, 0, 0);
+    background-color:#ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px
+}
+
+.caixa{
+    display: flex;
+    margin: auto;
+}
